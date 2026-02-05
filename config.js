@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine or wanna be my Wife? 💝",
+    pageTitle: "Will You Be My Valentine Please? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -35,7 +35,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2026 or Let's get married? 🌹", // The big question!
+            text: "Jaan Will you be my Valentine on February 14th, 2026, then let's get married later? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
